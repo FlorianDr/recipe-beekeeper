@@ -1,0 +1,13 @@
+{
+    "id": "beekeeeper",
+    "name": "Beekeeper",
+    "version": "1.0.0",
+    "description": "Beekeeper",
+    "author": "Florian Dreschner <code@dreschner.eu>",
+    "main": "index.js",
+    "config": {
+        "hasTeamId": true,
+        "serviceURL": "https://{teamId}.beekeeper.io/conversations",
+        "urlInputSuffix": ".beekeeper.io"
+    }
+}
